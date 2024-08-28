@@ -11,5 +11,8 @@
   "devDependencies": {
     "typescript": "^5.5.3",
     "vite": "^5.4.1"
+  },
+  "dependencies": {
+    "@pipedrive/app-extensions-sdk": "^0.10.2"
   }
 }
